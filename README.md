@@ -1,4 +1,4 @@
-# Rock-Papers-Scirrors
+# Rock-Papers-Scissors
 Initialization: The code initializes the game by setting exit to False and initializing the user and computer points to 0.
 Game Loop: A while loop runs continuously until exit is set to True.
 User and Computer Input: Inside the loop, the user is prompted to input their choice of "rock," "paper," "scissors," or "exit." The computer randomly selects its choice from the same options.
